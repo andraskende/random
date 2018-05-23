@@ -1,0 +1,15 @@
+<?php
+namespace App\Controller\Organizer;
+
+use App\Controller\AppController;
+
+class UsersController extends AppController {
+
+////////////////////////////////////////////////////////////
+
+    public function dashboard() {
+    }
+
+////////////////////////////////////////////////////////////
+
+}
